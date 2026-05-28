@@ -13,4 +13,4 @@ A kawaii pixel-art daily planner inspired by the original Digital Typewriter / R
 - 📊 **Live progress stats** — event count, quest count, and a pixel gradient progress bar update in real time
 - 🌸 **Pastel pixel aesthetic** — floating pixel decorations, background sparkles, bobbing title, and wobbling avatar; Sanrio × Stardew × lo-fi inspired
 
-Open `index.html` in a browser — no server or install needed.
+Open `my-magical-day.html` in a browser — no server or install needed.
